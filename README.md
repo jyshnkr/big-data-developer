@@ -19,3 +19,5 @@ I have decided and strongly determined to pursue my career as Mobile Developer-i
 - GitHub : [JayaShankar Mangina](https://github.com/jyshnkr)
 
 - PortFolio : [JayaShankar Mangina](https://jyshnkr.github.io) 
+
+![MyPicture](/img/Linkedin.jpg)
