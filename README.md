@@ -2,6 +2,8 @@
 
 # JayaShankar Mangina
 
+![MyPicture](/img/Linkedin.jpg)
+
 ## Current
 I am currently pursuing final semester of Master's in Applied Computer Science at NorthWest Missouri State University. I have joined NorthWest in Spring 2021.
 
@@ -20,4 +22,3 @@ I have decided and strongly determined to pursue my career as Mobile Developer-i
 
 - PortFolio : [JayaShankar Mangina](https://jyshnkr.github.io) 
 
-![MyPicture](/img/Linkedin.jpg)
