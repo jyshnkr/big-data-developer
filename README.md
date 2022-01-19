@@ -2,7 +2,7 @@
 
 # JayaShankar Mangina
 
-![MyPicture](/img/Linkedin.jpg)
+<img src="https://github.com/jyshnkr/big-data-developer/blob/main/img/Linkedin.jpg" class="center" width="600" height="600">
 
 ## Current
 I am currently pursuing final semester of Master's in Applied Computer Science at NorthWest Missouri State University. I have joined NorthWest in Spring 2021.
